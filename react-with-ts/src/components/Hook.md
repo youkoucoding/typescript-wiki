@@ -29,3 +29,10 @@
       }
 
     ```
+
+###### Caveat about Hook
+
+- 只在最顶层使用 Hook
+- 只在 React 函数中调用 Hook
+
+[useHooks - Easy to understand React Hook recipes](https://usehooks.com/)
