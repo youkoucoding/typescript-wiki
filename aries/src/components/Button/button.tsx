@@ -5,7 +5,7 @@ export enum ButtonSize {
   Large = 'lg',
   Small = 'sm',
 }
-
+// export出去，供测试代码使用
 export enum ButtonType {
   Primary = 'primary',
   Default = 'default',
