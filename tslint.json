@@ -1,9 +1,8 @@
 {
-    "defaultSeverity": "error",
-    "extends": [
-        "tslint:recommended"
-    ],
-    "jsRules": {},
-    "rules": {},
-    "rulesDirectory": []
+  "defaultSeverity": "error",
+  "extends": ["tslint:recommended"],
+  "interface-name": [true, "never-prefix"],
+  "jsRules": {},
+  "rules": {},
+  "rulesDirectory": []
 }
